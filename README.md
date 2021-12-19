@@ -4,7 +4,7 @@ A young (debatable), passionate and hard working developer. I love bringing my i
 
 
 - 🔭 These days I'm working on different kinds of projects!
-- 🌱 I’m currently learning C# and .NET. Also, trying to get my CCNA certificate.
+- 🎓 I’m currently learning C# and .NET. Also, trying to get my CCNA certificate.
 - 👯 I’m looking to collaborate with interesting and skilled people with great ideas.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm always down for a good challenge!
